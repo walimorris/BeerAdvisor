@@ -18,7 +18,7 @@ It's pretty cool, but I found that it can be pretty slow. Luckily there are othe
 Android device to your computer through USB and running a simulation of your app on your phone. This allows you to
 test your app and ensure things are the way you want them and it's much faster. 
 `
-## 3. Layouts, TextViews and Widgets
+## 3. Layouts, Activities, TextViews and Widgets
 
 `
 This app is fairly simple and allowed me to understand some basic concepts of Android Development. Let's 
