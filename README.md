@@ -34,14 +34,14 @@ This brings me to my next learning point.
 ## 4. XML
 
 `
-I never truly used XML before, although I've seen it while admiring other developer's code. When I first created 
-my project, Android generated tons of code and I quickly used drag and drop to add components, which generated its
-own XML. I had no idea what it meant so I decided to learn a bit of XML on the fly to figure out how to really
+I never truly used XML before, although I've seen it while viewing other developer's code. When I first created 
+my project, Android studio generated tons of code and I quickly used drag and drop to add components, which generated
+its own XML. I had no idea what it meant so I decided to learn a bit of XML on the fly to figure out how to really
 build this simple layout. Every widget you use in a layout will have an 'id' (android:id=@+id/"idname") that acts as 
 a reference to that widget. Amongst many things; you'll set the height, weight, gravity, text, and in some cases the 
 activity (ex: onClick="onClickFindBeer") which is a reference to a method in the mainActivity.java file, to many of 
 the widget components. Although drag and drop is a great way to boost productivity and lower the amount of time it
-takes to complete projects, I recommend understanding the basics of XML. 
+takes to complete projects, I recommend understanding the basics of XML.
 `
 
 
