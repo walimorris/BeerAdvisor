@@ -1,9 +1,7 @@
 # Beer Advisor
-## An Introduction: Android App
+## An Introduction: Android App 
 
-Beer Advisor is a fairly simple Android application, it's the first Android app I've attempted. 
-
-# Here are some things I've learned:
+### Here are some things I've learned:
 
 ## 1. Version Control: 
 
