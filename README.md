@@ -7,7 +7,7 @@
 `
 Version Control with Android Studio is fairly straight forward. Android Studio allows you to commit
 and push content to GitHub (and others) with just a few quick clicks. There's a VCS option on the top
-of Android Stuido that gives many options, as well as a Version Control Log and Console.
+of Android Studio that gives many options, as well as a Version Control Log and Console.
 `
 
 ## 2. AVD (Android Virtual Device) Manager
