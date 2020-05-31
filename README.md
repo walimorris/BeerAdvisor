@@ -41,7 +41,16 @@ build this simple layout. Every widget you use in a layout will have an 'id' (an
 a reference to that widget. Amongst many things; you'll set the height, weight, gravity, text, and in some cases the 
 activity (ex: onClick="onClickFindBeer") which is a reference to a method in the mainActivity.java file, to many of 
 the widget components. Although drag and drop is a great way to boost productivity and lower the amount of time it
-takes to complete projects, I recommend understanding the basics of XML.
+takes to complete projects, I recommend understanding the basics of XML. I almost forgot strings.xml. You can find this
+file in the res directory in values. strings.xml is a XML file that allows you to store string resources. For example, 
+in this app I used a text resource for the button widget that say's find beers. In the activity_main.xml file under the 
+button widget xml source code there's an option that looks like this ( android:text="@string/find_beer"). You could 
+write ( android:text="Find Beer") so it appears this way on the button widget, but let's say you use these same characters
+for multiple button widgets and rather than using a string resource you instead type out android:text="find beer" on every
+widget you create. You and your teammates decide you want the different buttons to say "cheers" rather than "find beer", so 
+now you have to change every widget to say "cheers" which may take a long time. If you were to write a string resource in 
+strings.xml you could make it so you use that resource with every botton widget you'd like to say "cheers". If your teammates
+decide to change it again to "HappyHour" all you'd have to do is change the string resource in strings.xml to say happy hour and you're off to the next task. Even though this may appear to sound like nothing too significant, it really seems to boost productivity and allow for adaptability. 
 `
 
 
