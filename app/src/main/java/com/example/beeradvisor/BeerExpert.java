@@ -2,6 +2,8 @@ package com.example.beeradvisor;
 
 import java.util.*;
 
+/* This method receives a color from the Spinner object, color represents beer strength, and 
+ * reads the color. Depending on color, a list of different beer brands are created */ 
 public class BeerExpert {
     List<String> getBrands(String color) {
         List<String> brands = new ArrayList<>();
@@ -39,6 +41,7 @@ public class BeerExpert {
                 brands.add("Chestnut Ale");
                 break;
         }
+        // returns list of beer brands to display in TextView 
         return brands;
     }
 }
