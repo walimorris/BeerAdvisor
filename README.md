@@ -54,5 +54,6 @@ now you have to change every widget to say "cheers" which may take a long time. 
 strings.xml you could make it so you use that resource with every botton widget you'd like to say "cheers". If your teammates
 decide to change it again to "HappyHour" all you'd have to do is change the string resource in strings.xml to say happy hour and you're off to the next task. Even though this may appear to sound like nothing too significant, it really seems to boost productivity and allow for adaptability. 
 `
+![BrandLists](BeerAdvisorPics/BrandLists.png)
 
 
