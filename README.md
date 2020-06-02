@@ -30,6 +30,8 @@ layouts you can use, such as horizontal layouts which would place widgets to the
 other. Android Studio does a lot of code generation for you when you set up a new project, and even allows 
 you to use the Display software to drag and drop different components to your app; generating the XML for you.
 This brings me to my next learning point. 
+
+![Default Screen](BeerAdvisorPics/DefaultScreen.png)
 `
 ## 4. XML
 
