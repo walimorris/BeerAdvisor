@@ -53,8 +53,11 @@ for multiple button widgets and rather than using a string resource you instead 
 widget you create. You and your teammates decide you want the different buttons to say "cheers" rather than "find beer", so 
 now you have to change every widget to say "cheers" which may take a long time. If you were to write a string resource in 
 strings.xml you could make it so you use that resource with every botton widget you'd like to say "cheers". If your teammates
-decide to change it again to "HappyHour" all you'd have to do is change the string resource in strings.xml to say happy hour and you're off to the next task. Even though this may appear to sound like nothing too significant, it really seems to boost productivity and allow for adaptability. 
+decide to change it again to "HappyHour" all you'd have to do is change the string resource in strings.xml to say
+happyhourand you're off to the next task. Even though this may appear to sound like nothing too significant, it really 
+seems to boost productivity and allow for adaptability. 
 `
+
 <img src="BeerAdvisorPics/BrandList.png" width="250">
 
 
